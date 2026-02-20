@@ -36,23 +36,27 @@ All transformations were performed using SQL in BigQuery.
 
 ## Exploratory Data Analysis
 ### Total Ride Distribution
-  Annual members account for approximately 64.5% of total rides, forming the core usage base.
+![Ride Distribution](images/annual_ride_volume.png)
+Annual members account for approximately 64.5% of total rides, forming the core usage base.
 
 ### Average Ride Duration
-  Casual riders take longer trips on average (19.4 minutes vs 11.6 minutes), suggesting leisure-oriented behaviour.
+![Average Ride Duration](images/average_ride_length.png)
+Casual riders take longer trips on average (19.4 minutes vs 11.6 minutes), suggesting leisure-oriented behaviour.
 
 ### Day-of-Week Patterns
-  Members exhibit strong weekday usage patterns, while casual riders show increased weekend activity.
+![Day of Week Usage](images/daily_usage.png)
+Members exhibit strong weekday usage patterns, while casual riders show increased weekend activity.
 
 ### Hour-of-Day Behaviour
-  Members display clear peaks during commuting hours (around 8AM and 5–6PM).  
-  Casual rider activity is more evenly distributed throughout the day.
+![Hour of Day Usage](images/hourly_usage.png)
+Members display clear peaks during commuting hours (around 8AM and 5–6PM).  
+Casual rider activity is more evenly distributed throughout the day.
 
 ### Rideable Type Preference
-  Rideable type distribution is nearly identical across both groups.
+Rideable type distribution is nearly identical across both groups.
 
 ### Seasonality
-  Both groups follow similar seasonal trends, indicating seasonality does not explain behavioural differences.
+Both groups follow similar seasonal trends, indicating seasonality does not explain behavioural differences.
 
 ## Key Insights
 - Members primarily use the service for weekday commuting.
