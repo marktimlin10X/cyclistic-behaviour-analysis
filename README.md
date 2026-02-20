@@ -15,8 +15,8 @@ How do annual members and casual riders differ in their riding behaviour?
 
 ### Tools Used:
 - Google BigQuery (SQL)
-- Excel
-- PowerPoint
+- Microsoft Excel
+- Microsoft PowerPoint
 
 ## Data Preparation
 The dataset consisted of monthly ride data tables.
@@ -86,3 +86,8 @@ Both groups follow similar seasonal trends, indicating seasonality does not expl
 - Incorporate pricing and revenue data to estimate ROI.
 - Conduct A/B testing on conversion campaigns.
 - Build a predictive model to identify high-probability converters.
+
+---
+## Author
+Mark Timlin  
+Aspiring Data Analyst | SQL | Behavioural Analytics
