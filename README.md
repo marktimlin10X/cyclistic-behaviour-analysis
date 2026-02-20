@@ -63,11 +63,9 @@ Members display clear peaks during commuting hours (around 8AM and 5–6PM).
 Casual rider activity is more evenly distributed throughout the day.
 </p>
 
----
 ### Rideable Type Preference
 Rideable type distribution is nearly identical across both groups.
 
----
 ### Seasonality
 Both groups follow similar seasonal trends, indicating seasonality does not explain behavioural differences.
 
