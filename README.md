@@ -43,17 +43,20 @@ Annual members account for approximately 64.5% of total rides, forming the core 
 ---
 ### Average Ride Duration
 Casual riders take longer trips on average (19.4 minutes vs 11.6 minutes), suggesting leisure-oriented behaviour.
+
 ![Average Ride Duration](images/average_ride_length.png)
 
 ---
 ### Day-of-Week Patterns
 Members exhibit strong weekday usage patterns, while casual riders show increased weekend activity.
+
 ![Day of Week Usage](images/daily_usage.png)
 
 ---
 ### Hour-of-Day Behaviour
 Members display clear peaks during commuting hours (around 8AM and 5–6PM).
 Casual rider activity is more evenly distributed throughout the day.
+
 ![Hour of Day Usage](images/hourly_usage.png)
 
 ### Rideable Type Preference
