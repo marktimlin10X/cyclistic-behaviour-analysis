@@ -82,7 +82,7 @@ Both groups follow similar seasonal trends, indicating seasonality does not expl
 - No revenue or profitability data included.
 - Observational analysis only — no causal testing done.
 
-## Future Improvements
+### Future Improvements
 - Incorporate pricing and revenue data to estimate ROI.
 - Conduct A/B testing on conversion campaigns.
 - Build a predictive model to identify high-probability converters.
