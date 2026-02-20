@@ -13,14 +13,14 @@ Cyclistic aims to increase long-term revenue by converting casual riders into an
 How do annual members and casual riders differ in their riding behaviour?
 
 
-======
+---
 ### Tools Used:
 - Google BigQuery (SQL)
 - Excel
 - PowerPoint
 
 
-======
+---
 ### Data Preparation
 The dataset consisted of monthly ride data tables.
 
@@ -39,10 +39,11 @@ Key preparation steps included:
 All transformations were performed using SQL in BigQuery.
 
 
-======
+---
 ### Exploratory Data Analysis
 #### Total Ride Distribution
 Annual members account for approximately 64.5% of total rides, forming the core usage base.
+
 
 #### Average Ride Duration
 Casual riders take longer trips on average (19.4 minutes vs 11.6 minutes), suggesting leisure-oriented behaviour.
