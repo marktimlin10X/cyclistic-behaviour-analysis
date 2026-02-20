@@ -39,6 +39,7 @@ All transformations were performed using SQL in BigQuery.
 <p align="center">
 Annual members account for approximately 64.5% of total rides, forming the core usage base.
 </p>
+
 ![Ride Distribution](images/annual_ride_volume.png)
 
 ---
@@ -46,6 +47,7 @@ Annual members account for approximately 64.5% of total rides, forming the core 
 <p align="center">
 Casual riders take longer trips on average (19.4 minutes vs 11.6 minutes), suggesting leisure-oriented behaviour.
 </p>
+
 ![Average Ride Duration](images/average_ride_length.png)
 
 ---
@@ -53,6 +55,7 @@ Casual riders take longer trips on average (19.4 minutes vs 11.6 minutes), sugge
 <p align="center">
 Members exhibit strong weekday usage patterns, while casual riders show increased weekend activity.
 </p>
+
 ![Day of Week Usage](images/daily_usage.png)
 
 ---
@@ -61,6 +64,7 @@ Members exhibit strong weekday usage patterns, while casual riders show increase
 Members display clear peaks during commuting hours (around 8AM and 5–6PM).
 Casual rider activity is more evenly distributed throughout the day.
 </p>
+
 ![Hour of Day Usage](images/hourly_usage.png)
 
 ### Rideable Type Preference
