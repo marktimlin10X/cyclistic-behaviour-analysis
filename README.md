@@ -15,7 +15,6 @@ How do annual members and casual riders differ in their riding behaviour?
 - Excel
 - PowerPoint
 
----
 ## Data Preparation
 The dataset consisted of monthly ride data tables.
 
@@ -32,7 +31,6 @@ The dataset consisted of monthly ride data tables.
 
 All transformations were performed using SQL in BigQuery.
 
----
 ## Exploratory Data Analysis
 ### Total Ride Distribution
   Annual members account for approximately 64.5% of total rides, forming the core usage base.
@@ -53,7 +51,6 @@ All transformations were performed using SQL in BigQuery.
 ### Seasonality
   Both groups follow similar seasonal trends, indicating seasonality does not explain behavioural differences.
 
----
 ## Key Insights
 - Members primarily use the service for weekday commuting.
 - Casual riders demonstrate stronger weekend and leisure usage.
@@ -70,7 +67,6 @@ All transformations were performed using SQL in BigQuery.
 - No revenue or profitability data included.
 - Observational analysis only — no causal testing done.
 
----
 ## Future Improvements
 - Incorporate pricing and revenue data to estimate ROI.
 - Conduct A/B testing on conversion campaigns.
