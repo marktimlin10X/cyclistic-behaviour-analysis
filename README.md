@@ -1,5 +1,7 @@
 # Cyclistic Behaviour Analysis  
 ## Converting Casual Riders to Annual Members
+## 📊 Project Presentation
+[View Full Presentation Slides](presentation/Presentation.pptx)
 
 ### Project Overview
 This project analyses historical ride data from Cyclistic, a bike-share company, to identify behavioural differences between annual members and casual riders. The objective is to generate data-driven recommendations to increase annual membership conversions.
