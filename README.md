@@ -5,7 +5,7 @@
 This project analyses historical ride data from Cyclistic, a bike-share company, to identify behavioural differences between annual members and casual riders. The objective is to generate data-driven recommendations to increase annual membership conversions.
 
 
-======
+---
 ### Business Problem
 Cyclistic aims to increase long-term revenue by converting casual riders into annual members.
 
