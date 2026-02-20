@@ -37,6 +37,7 @@ All transformations were performed using SQL in BigQuery.
 ## Exploratory Data Analysis
 ### Total Ride Distribution
 Annual members account for approximately 64.5% of total rides, forming the core usage base.
+
 ![Ride Distribution](images/annual_ride_volume.png)
 
 ---
